@@ -50,13 +50,13 @@ end
 
 
 def using_delete(array, string)
-  delete array(string)
+  array.delete(string)
 end
 
 
 
 def using_delete_at(array, integer)
-  delete array(integer, integer)
+  array.delete(integer, integer)
 end
 
 
