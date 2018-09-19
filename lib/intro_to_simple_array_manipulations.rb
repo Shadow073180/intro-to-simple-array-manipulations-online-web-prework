@@ -34,7 +34,7 @@ end
 
 
 def using_insert(array, element)
-  Array.insert(array, 3)
+  .insert(array, 3)
 end
 
 
